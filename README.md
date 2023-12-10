@@ -6,11 +6,11 @@ Techniques to facilitate Multi-modal information retrieval using advance documen
 API service that does advanced PDF parsing and metadata extraction.
 Create a `pdfservices-api-credentials.json` and use Postman to interact with the API service.
 
-[Adobe Extract API] (https://developer.adobe.com/document-services/docs/overview/pdf-extract-api/)
+[Adobe Extract API](https://developer.adobe.com/document-services/docs/overview/pdf-extract-api/)
 
-[Python SDK Link] (https://github.com/adobe/pdfservices-python-sdk)
+[Python SDK Link](https://github.com/adobe/pdfservices-python-sdk)
 
-[Python Samples SDK Link] (https://github.com/adobe/pdfservices-python-sdk-samples#structured-information-output-format)
+[Python Samples SDK Link](https://github.com/adobe/pdfservices-python-sdk-samples#structured-information-output-format)
 
 ## PDF2HTMLEX
 This library is useful from parsing the text structure of documents.
