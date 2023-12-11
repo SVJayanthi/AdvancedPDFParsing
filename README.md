@@ -21,3 +21,6 @@ and run:
 ```
 APPIMAGE_EXTRACT_AND_RUN=1 ./pdf2htmlex.AppImage <pdfname.pdf>
 ```
+
+## Google Document Parser
+[Alt. Solution](https://cloud.google.com/document-ai)
